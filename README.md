@@ -1,5 +1,5 @@
 # machine_learning_collection
-
+# Professor Mohammadali Javadzadeh javadzadeh@ihu.ac.ir
 ## Overview
 
 This GitHub repository contains a Python project for automated machine learning model training. The project includes a set of scripts and configuration files to train and evaluate various machine learning models on a given dataset with k-fold cross-validation.
